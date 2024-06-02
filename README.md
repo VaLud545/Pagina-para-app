@@ -1,0 +1,1 @@
+En este codigo realize una pagina web para mostrar una aplicación, la cual fue realizada por mi grupo de trabajo, espero que el codigo se entienda, y si tienen mejoras para la pagina agradeceria mucho a ayuda
